@@ -1,1 +1,1 @@
-# Teeth-Recognition
+# Teeth-Detection
