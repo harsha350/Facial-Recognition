@@ -1,1 +1,1 @@
-# Facial-Recognition
+# Teeth-Recognition
